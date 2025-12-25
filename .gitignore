@@ -1,0 +1,13 @@
+# Configuration files with secrets
+openai.conf
+telegram.conf
+
+# Directory for analysis results
+analysis_reports/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db

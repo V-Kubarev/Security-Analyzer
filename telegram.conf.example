@@ -1,0 +1,5 @@
+# Telegram Bot Configuration
+# Your Bot Token from BotFather
+BOT_TOKEN="1234567890:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+# Your chat ID
+CHAT_ID="123456789"
